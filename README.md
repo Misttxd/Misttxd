@@ -34,8 +34,3 @@ frajer
 - **[Vedlejsi_projekty](https://github.com/Misttxd/Vedlejsi_projekty)** – Sbírka algoritmů a školních projektů (C++, ASM, CUDA, SQL).
 - **[Day-planner](https://github.com/Misttxd/Day-planner)** – Plánovač úloh postavený na moderním webovém stacku (TypeScript, Next.js).
 - **[Maturita](https://github.com/Misttxd/Maturita)** – Rybářská videohra v Unity.
-- **[n8n-workflows](https://github.com/Misttxd/n8n-workflows)** – Mé vlastní n8n automatizace.
-
----
-
-Originalita kódu a řešení problémů má přednost před kvantitou.
