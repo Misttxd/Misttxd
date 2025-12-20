@@ -1,7 +1,6 @@
 ﻿# Andreas Brudovský
 
-Student informatiky na **VŠB – Technická univerzita Ostrava**.
-Zaměřuji se na nízkoúrovňové programování, algoritmy a full-stack vývoj.
+frajer
 
 ---
 
