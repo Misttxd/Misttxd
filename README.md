@@ -11,15 +11,19 @@ frajer
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 
 **Web & App**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Data & Tools**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -30,3 +34,8 @@ frajer
 - **[Vedlejsi_projekty](https://github.com/Misttxd/Vedlejsi_projekty)** – Sbírka algoritmů a školních projektů (C++, ASM, CUDA, SQL).
 - **[Day-planner](https://github.com/Misttxd/Day-planner)** – Plánovač úloh postavený na moderním webovém stacku (TypeScript, Next.js).
 - **[Maturita](https://github.com/Misttxd/Maturita)** – Rybářská videohra v Unity.
+- **[n8n-workflows](https://github.com/Misttxd/n8n-workflows)** – Mé vlastní n8n automatizace.
+
+---
+
+Originalita kódu a řešení problémů má přednost před kvantitou.
