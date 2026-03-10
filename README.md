@@ -24,6 +24,6 @@ frajer
 
 ### 📂 Vybrané Repozitáře
 
-- **[Vedlejsi_projekty](https://github.com/Misttxd/Vedlejsi_projekty)** – Sbírka algoritmů a školních projektů (C++, ASM, CUDA, SQL).
+- **[Vedlejsi_projekty](https://github.com/Misttxd/Vedlejsi_projekty)** – Sbírka vedlejších projektů a školních úkolů.
 - **[Day-planner](https://github.com/Misttxd/Day-planner)** – Plánovač úloh postavený na moderním webovém stacku (TypeScript, Next.js).
 - **[Maturita](https://github.com/Misttxd/Maturita)** – Rybářská videohra v Unity.
