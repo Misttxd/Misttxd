@@ -1,6 +1,6 @@
 ﻿# Andreas Brudovský
 
-frajer
+grind
 
 ---
 
