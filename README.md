@@ -1,6 +1,6 @@
 ﻿# Andreas Brudovský
 
-grind
+VŠB CS Student
 
 ---
 
