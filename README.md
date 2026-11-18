@@ -56,6 +56,6 @@ Computer Science student at VSB – Technical University of Ostrava.
 
 ### 📂 Featured Repositories
 
-- **[ZPG](https://github.com/Misttxd/ZPG)** — C++ and OpenGL coursework covering 3D rendering, lighting, textures, and GLSL shaders.
-- **[TAMZ II](https://github.com/Misttxd/TAMZ-II)** — Android coursework in Kotlin and Jetpack Compose, including a savings calculator, a barcode app, Sokoban, and weather apps.
-- **[Side Projects](https://github.com/Misttxd/Vedlejsi_projekty)** — Coursework and personal projects spanning algorithms, databases, embedded systems, and application development.
+- **[ZPG](https://github.com/Misttxd/ZPG)** — C++ and OpenGL project covering 3D rendering, lighting, textures, and GLSL shaders.
+- **[TAMZ II](https://github.com/Misttxd/TAMZ-II)** — Android projects in Kotlin and Jetpack Compose, including a savings calculator, a barcode app, Sokoban, and weather apps.
+- **[Side Projects](https://github.com/Misttxd/Vedlejsi_projekty)** — Courseworks and personal projects spanning algorithms, databases, embedded systems, and application development.
